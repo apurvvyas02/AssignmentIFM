@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-31T12:44:26 IST" name="Default suite" finished-at="2020-12-31T12:45:20 IST" duration-ms="54636">
+    <groups>
+    </groups>
+    <test started-at="2020-12-31T12:44:26 IST" name="Default test" finished-at="2020-12-31T12:45:20 IST" duration-ms="54636">
+      <class name="test.TestAssignment">
+        <test-method signature="verifyNavToHomePage()[pri:1, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:26 IST" name="verifyNavToHomePage" finished-at="2020-12-31T12:44:29 IST" duration-ms="2762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavToHomePage -->
+        <test-method signature="checkTabDetails()[pri:2, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:29 IST" name="checkTabDetails" finished-at="2020-12-31T12:44:29 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTabDetails -->
+        <test-method signature="sortFirstCol()[pri:3, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:29 IST" name="sortFirstCol" finished-at="2020-12-31T12:44:31 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortFirstCol -->
+        <test-method signature="checkMaxEmailDomain()[pri:4, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:31 IST" name="checkMaxEmailDomain" finished-at="2020-12-31T12:44:31 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMaxEmailDomain -->
+        <test-method signature="delSecondRow()[pri:4, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:31 IST" name="delSecondRow" finished-at="2020-12-31T12:44:34 IST" duration-ms="2892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delSecondRow -->
+        <test-method signature="editTestAdmin()[pri:5, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:44:34 IST" name="editTestAdmin" finished-at="2020-12-31T12:45:05 IST" duration-ms="31023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editTestAdmin -->
+        <test-method signature="verifyEditandDelCol()[pri:6, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:45:05 IST" name="verifyEditandDelCol" finished-at="2020-12-31T12:45:05 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditandDelCol -->
+        <test-method signature="editBrokenLinks()[pri:7, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:45:05 IST" name="editBrokenLinks" finished-at="2020-12-31T12:45:20 IST" duration-ms="14863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editBrokenLinks -->
+        <test-method signature="storeList()[pri:8, instance:test.TestAssignment@3b2c72c2]" started-at="2020-12-31T12:45:20 IST" name="storeList" finished-at="2020-12-31T12:45:20 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeList -->
+      </class> <!-- test.TestAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
